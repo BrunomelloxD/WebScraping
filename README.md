@@ -22,6 +22,15 @@ Entre no diretório do projeto
   cd WebScraping
 ```
 
+Cria um arquivo `.env` na raiz do projeto com as seguintes variáveis
+
+```bash
+EMAIL=seu_login_do_instagram
+PASSWORD=sua_senha_do_instagram
+
+INSTAGRAM_LOGIN_URL=https://www.instagram.com/
+```
+
 Instale as dependências
 
 ```bash
