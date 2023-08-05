@@ -19,7 +19,7 @@ git clone https://github.com/BrunomelloxD/WebScrapingNode.js.git
 Entre no diretório do projeto
 
 ```bash
-  cd WebScraping
+cd WebScraping
 ```
 
 Cria um arquivo `.env` na raiz do projeto com as seguintes variáveis
@@ -34,13 +34,13 @@ INSTAGRAM_LOGIN_URL=https://www.instagram.com/
 Instale as dependências
 
 ```bash
-  npm install
+npm install
 ```
 
 Inicie o servidor. O projeto irá rodar em `http://localhost:3000/`
 
 ```bash
-  npm run dev
+npm run dev
 ```
 
 ## Documentação da API
@@ -48,7 +48,7 @@ Inicie o servidor. O projeto irá rodar em `http://localhost:3000/`
 #### Retorna todos os seguidores. Obs: Envie uma url no seu body.
 
 ```http
-  POST /instagramFollowers
+POST /instagramFollowers
 ```
 
 | Parâmetro | Tipo     | Descrição                                                                                                                                    |
