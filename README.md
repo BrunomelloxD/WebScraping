@@ -51,8 +51,8 @@ npm run dev
 POST /instagramFollowers
 ```
 
-| Parâmetro | Tipo     | Descrição                                                                                                                                    |
-| :-------- | :------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| `url`     | `string` | **Obrigatório**. Informe o perfil da pessoao que deseja listar os seus seguidores. Exemplo: `https://www.instagram.com/instagram/followers/` |
+| Parâmetro | Tipo     | Descrição                                                                                                                                   |
+| :-------- | :------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| `url`     | `string` | **Obrigatório**. Informe o perfil da pessoa que deseja listar os seus seguidores. Exemplo: `https://www.instagram.com/instagram/followers/` |
 
 **Nesse exemplo irá retorna todos os seguidores da página Instagram**
